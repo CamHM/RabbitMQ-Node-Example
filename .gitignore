@@ -9,3 +9,7 @@ node_modules/
 
 # ide
 .idea/
+
+#imagenes
+images/
+img/

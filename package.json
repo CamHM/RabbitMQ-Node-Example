@@ -1,0 +1,9 @@
+{
+  "name": "mom",
+  "version": "1.0.0",
+  "dependencies": {
+    "amqplib": "latest",
+    "jimp": "latest",
+    "sharp": "^0.22.1"
+  }
+}
